@@ -1,0 +1,8 @@
+---
+# defaults file for docker_services
+adgurad_config:
+  nameserver: []
+  filter: []
+  local_ptr: ""
+  user_name: adadmin
+  user_password: adadmin
